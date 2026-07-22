@@ -1,0 +1,12 @@
+{
+    "appVendor": "TESI SPA",
+    "appID": "EMOWEB",
+    "appVersion": "3.3",
+    	"ts":"2026-06-03T09:00:00Z",
+		"equiv_releases": [
+			"5.0",
+			"5.1",
+			"5.2",
+			"6.0"
+		]
+  }

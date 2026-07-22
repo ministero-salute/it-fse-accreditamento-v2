@@ -1,0 +1,16 @@
+{
+	"appVendor": "NETMEDICAITALIA",
+	"appID": "NETMEDICA",
+	"appVersion": "2.0",
+	"results": [
+		{
+			"id": "478",
+			"ts": "2026-07-08T15:50:40Z",
+			"traceId": "8ee023e610c6c7498dccd55cf64cd4f8",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.0f08d4b221be0412cb381108082d1a9ccce1721d50edfe2a12090564265030db.8bad3888e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+				"PSS_Validazione_478.pdf"
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"appVendor": "Netpolaris",
+	"appID": "the0",
+	"appVersion": "1.0",
+	"results": [
+		{
+			"id": 450,
+			"ts": "2026-06-20T21:02:15.426Z",
+			"traceId": "99c74eba3c0d6e680e802957f20d484f",
+			"workflowInstanceId": "28ae9fc6-a98a-4fc1-97e1-f5a3a538479a.8c755b1c1874281cc69c30d574a16e4d9fcb01dca04722a7d8322ba46fb956a9.a955ea79d8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": ["LDO_unsigned.pdf", "SIGNED/LDO_signed.pdf"]
+		}
+	]
+}

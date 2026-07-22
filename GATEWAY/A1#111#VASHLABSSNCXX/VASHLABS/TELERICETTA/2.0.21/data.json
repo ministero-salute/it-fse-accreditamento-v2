@@ -1,0 +1,53 @@
+{
+	"appVendor": "VASHLABS",
+    "appID": "TELERICETTA",
+    "appVersion": "2.0.21",
+	"results":[
+		{
+            "id": 168,
+            "ts": "2026-03-18T08:12:29+00:00",
+            "traceId": "3c1a0552f25074505a4be623d57864a8",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b706431650a2b3dc25e398723e8f20658fb17b6f990ace8f627b36e84474c6f4.c8dd407348^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "168.pdf"
+            ]
+        },
+		{
+            "id": 448,
+            "ts": "2026-03-17T18:46:14+00:00",
+            "traceId": "b9a2822074c8afeeefc9a42de66fb91f",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b706431650a2b3dc25e398723e8f20658fb17b6f990ace8f627b36e84474c6f4.223c4d535a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "448.pdf"
+            ]
+        },
+		
+		{
+            "id": 449,
+            "ts": "2026-03-17T18:48:54+00:00",
+            "traceId": "210748a3431f15fc79645859adee2591",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b706431650a2b3dc25e398723e8f20658fb17b6f990ace8f627b36e84474c6f4.b581d93d51^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "449.pdf"
+            ]
+        },
+		{
+            "id": 461,
+            "ts": "2026-03-18T08:17:24+00:00",
+            "traceId": "40d2f73b6847d2b652cacff9b5435eae",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b706431650a2b3dc25e398723e8f20658fb17b6f990ace8f627b36e84474c6f4.80d504f934^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "461.pdf"
+            ]
+        },
+		{
+            "id": 475,
+            "ts": "2026-03-18T08:22:19+00:00",
+            "traceId": "90f548f617d4dc6a411e78b6608aeede",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b706431650a2b3dc25e398723e8f20658fb17b6f990ace8f627b36e84474c6f4.68c493d044^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "475.pdf"
+            ]
+        }
+	]
+}

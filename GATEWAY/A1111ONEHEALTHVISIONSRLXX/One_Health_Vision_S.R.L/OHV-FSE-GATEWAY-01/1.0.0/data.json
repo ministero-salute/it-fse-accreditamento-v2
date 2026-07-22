@@ -1,0 +1,69 @@
+{
+  "appVendor": "One Health Vision S.R.L.",
+  "appID": "OHV-FSE-GATEWAY-01",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 521,
+      "ts": "2026-05-29T07:46:51Z",
+      "traceId": "e50a0356e173850352d7155ec3332fce",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.68b86c063d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT1.PDF"]
+    },
+    {
+      "id": 522,
+      "ts": "2026-05-29T07:49:42Z",
+      "traceId": "29fa2186f573af73f9224602f70abb2a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.b98f174798^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT2.PDF"]
+    },
+    {
+      "id": 523,
+      "ts": "2026-05-29T07:50:17Z",
+      "traceId": "ad8a6ad84503041fe29b614907b3c3d9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.8c32c9ab3e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT3.PDF"]
+    },
+    {
+      "id": 524,
+      "ts": "2026-05-29T07:50:47Z",
+      "traceId": "6bcfb371d79650ecf8c1f6c7b21abc45",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.35b5f9af9d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT4.PDF"]
+    },
+    {
+      "id": 525,
+      "ts": "2026-05-29T07:51:25Z",
+      "traceId": "acbe24d7ca367d43750886c4dff65246",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.71a22751e8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT5.PDF"]
+    },
+    {
+      "id": 526,
+      "ts": "2026-05-29T07:51:50Z",
+      "traceId": "2193214438fa068b341ea9c7efa2cfb8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.6025088868^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT6.PDF"]
+    },
+    {
+      "id": 527,
+      "ts": "2026-05-29T07:52:21Z",
+      "traceId": "be42f99a4c5c27219edec4f1c70d4dfe",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.1a4b302c21^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT7.PDF"]
+    },
+    {
+      "id": 528,
+      "ts": "2026-05-29T07:52:51Z",
+      "traceId": "6ae9068bfda95dfbd5b6582d497a80bb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.bc8fea25dac4d4e9f792378e7c63327fda8ed6217e0ade6886d35cb7b2d7a298.b45143afaf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT8.PDF"]
+    },
+    {
+      "id": 529,
+      "ts": "2026-05-29T07:55:02Z",
+      "traceId": "3b3352da92be2b34e434c3eb62ca4355",
+      "files": ["VALIDAZIONE_CDA2_CCE_CT9.PDF"]
+    }
+  ]
+}
