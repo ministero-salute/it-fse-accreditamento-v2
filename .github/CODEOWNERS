@@ -1,0 +1,5 @@
+* @ministero-salute/fse-support
+/.github/ @ministero-salute/fse-accreditamento-admin
+/.github/CODEOWNERS @ministero-salute/fse-accreditamento-admin
+/CODEOWNERS @ministero-salute/fse-accreditamento-admin
+/docs/CODEOWNERS @ministero-salute/fse-accreditamento-admin
