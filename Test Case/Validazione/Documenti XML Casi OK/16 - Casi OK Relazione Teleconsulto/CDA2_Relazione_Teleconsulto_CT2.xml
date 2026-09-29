@@ -767,6 +767,14 @@
 									<code code="19" codeSystem="2.16.840.1.113883.2.9.6.1.9" codeSystemName="Branca della prestazione" displayName="Malattie endocrine, del ricambio e della nutrizione"/>
 								</observation>
 							</entryRelationship>
+							<!--Data/Ora Richiesta-->
+							<entryRelationship typeCode="REFR" inversionInd="false">
+								<act classCode="ACT" moodCode="RQO">
+									<id  root="XXX" extension="ProvaXXXXX"/>
+									<code nullFlavor="NA"/>
+									<effectiveTime value="20220509073749+0100"/>
+								</act>								
+							</entryRelationship>
 						</act>	
 					</entry>
 					<entry>
