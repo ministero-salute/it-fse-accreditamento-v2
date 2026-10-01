@@ -1,5 +1,28 @@
-* @ministero-salute/fse-support
-/.github/ @ministero-salute/fse-accreditamento-admin
-/.github/CODEOWNERS @ministero-salute/fse-accreditamento-admin
-/CODEOWNERS @ministero-salute/fse-accreditamento-admin
-/docs/CODEOWNERS @ministero-salute/fse-accreditamento-admin
+*                           @ministero-salute/fse-support
+
+/.github/                   @ministero-salute/fse-accreditamento-admin
+/.github/CODEOWNERS         @ministero-salute/fse-accreditamento-admin
+/CODEOWNERS                 @ministero-salute/fse-accreditamento-admin
+/docs/CODEOWNERS            @ministero-salute/fse-accreditamento-admin
+
+README.md                   @ministero-salute/fse-support
+README                      @ministero-salute/fse-support
+SECURITY.md                 @ministero-salute/fse-support
+CONTRIBUTING.md             @ministero-salute/fse-support
+CODE_OF_CONDUCT.md          @ministero-salute/fse-support
+SUPPORT.md                  @ministero-salute/fse-support
+GOVERNANCE.md               @ministero-salute/fse-support
+CHANGELOG.md                @ministero-salute/fse-support
+CITATION.cff                @ministero-salute/fse-support
+LICENSE                     @ministero-salute/fse-support
+LICENSE.md                  @ministero-salute/fse-support
+LICENSE.txt                 @ministero-salute/fse-support
+COPYING                     @ministero-salute/fse-support
+FUNDING.yml                 @ministero-salute/fse-support
+pull_request_template.md    @ministero-salute/fse-support
+PULL_REQUEST_TEMPLATE.md    @ministero-salute/fse-support
+/.github/ISSUE_TEMPLATE/    @ministero-salute/fse-support
+.gitignore                  @ministero-salute/fse-support
+.gitattributes              @ministero-salute/fse-support
+.gitmodules                 @ministero-salute/fse-support
+.editorconfig               @ministero-salute/fse-support
