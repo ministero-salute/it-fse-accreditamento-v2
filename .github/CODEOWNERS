@@ -27,4 +27,4 @@ PULL_REQUEST_TEMPLATE.md    @ministero-salute/fse-support
 .gitmodules                 @ministero-salute/fse-support
 .editorconfig               @ministero-salute/fse-support
 
-/Test Case/                 @ministero-salute/fse-accreditamento-admin
+/Test%20Case/               @ministero-salute/fse-accreditamento-admin
