@@ -543,7 +543,7 @@
 					</entry> 
 					<entry> 
 						<observationMedia classCode="OBS" moodCode="EVN"> 
-							<value representation="B64" mediaType="image/jpeg">EZWNvZGVQYXJtczw8L0JpdHNQZXJDb21wb25lbnQgOC9Db2xvcnMgMS9QcmVkaWN0b3IgMTUvQ29sdW1ucyA5NT4+L1R5cGUvWE9iamVjdC9TdWJ0eXBlL0ltYWdlL0JpdHNQZXJDb21wb25lbnQgOC9XaWR0aCA5NS9MZW5ndGggMjc4Ny9IZWlnaHQgNzQvQ29sb3JTcGFjZVsvSW5kZXhlZC9EZXZpY2VSR0IgMjMyKP////f39//39//n3v/ezv/v5//Gpf+1hP+te/+la/+MQvd7XCn/cxj/59b/3sb/zq3/rXP/nFr/lEr/jDn3hDH/hDH3eyH/</value> 
+							<value xsi:type="ED" representation="B64" mediaType="image/jpeg">EZWNvZGVQYXJtczw8L0JpdHNQZXJDb21wb25lbnQgOC9Db2xvcnMgMS9QcmVkaWN0b3IgMTUvQ29sdW1ucyA5NT4+L1R5cGUvWE9iamVjdC9TdWJ0eXBlL0ltYWdlL0JpdHNQZXJDb21wb25lbnQgOC9XaWR0aCA5NS9MZW5ndGggMjc4Ny9IZWlnaHQgNzQvQ29sb3JTcGFjZVsvSW5kZXhlZC9EZXZpY2VSR0IgMjMyKP////f39//39//n3v/ezv/v5//Gpf+1hP+te/+la/+MQvd7XCn/cxj/59b/3sb/zq3/rXP/nFr/lEr/jDn3hDH/hDH3eyH/</value> 
 						</observationMedia> 
 					</entry> 					
 				</section>
