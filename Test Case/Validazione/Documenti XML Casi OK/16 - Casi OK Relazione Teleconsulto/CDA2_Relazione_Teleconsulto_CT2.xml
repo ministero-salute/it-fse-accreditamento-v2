@@ -420,7 +420,7 @@
 											<participant contextControlCode="OP" typeCode="CSM">
 												<participantRole classCode="MANU">
 													<playingEntity classCode="MMAT">
-														<code code="227144008" codeSystem="2.16.840.1.113883.2.9.77.22.11.2" codeSystemName="AllergenNoDrugs_PPSIT" displayName="Tonno">
+														<code code="227144008" codeSystem="2.16.840.1.113883.2.9.77.22.11.2" codeSystemName="AllergenNoDrugs_PSSIT" displayName="Tonno">
 															<originalText>
 																<reference value="#[REF_AGENT]"/>
 															</originalText>
