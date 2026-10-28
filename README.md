@@ -37,10 +37,10 @@ I dati da inviare comprendono:
 **ATTENZIONE**: 
 1. I file pdf usati nelle invocazioni dei servizi NON devono essere inviati.
 2. Per l’invocazione dei servizi devono essere utilizzati esclusivamente i codici fiscali inclusi nella white list fornita. L'utilizzo di cf 		diversi da quelli in white list comporta un KO durante il processo di accreditamento. 
-3. Sul presente repository NON devono essere caricati dati sensibili. I software vendor non impiegano in nessun modo dati riconducibili a persone identificate o identificabili, ai sensi del Regolamento (UE) 2016/679 (GDPR). L’apertura di una pull request richiede la presa visione e l’accettazione di tale responsabilità.
+3. Sul presente repository NON devono essere caricati dati sensibili. I software vendor non impiegano in nessun modo dati riconducibili a persone identificate o identificabili, ai sensi del Regolamento (UE) 2016/679 (GDPR). L’apertura di una pull request è subordinata alla presa visione dell'informativa privacy e all’accettazione della dichiarazione di presa di responsabilità da allegare all'EUSurvey.
 
 
-I risultati delle verifiche verranno mandate per mail all'indirizzo immesso nel modulo di richiesta accreditamento.
+I risultati delle verifiche verranno mandate per mail all'indirizzo immesso nel [modulo di richiesta accreditamento](https://ec.europa.eu/eusurvey/runner/FSE-2-validazione-new).
 
 ### Struttura dei risultati (data.json)
 All'interno della directory bisognerà creare un file `data.json` con il seguente schema:
