@@ -36,7 +36,7 @@ I dati da inviare comprendono:
 
 **ATTENZIONE**: 
 1. I file pdf usati nelle invocazioni dei servizi NON devono essere inviati.
-2. Per l’invocazione dei servizi devono essere utilizzati esclusivamente i codici fiscali inclusi nella white list fornita. L'utilizzo di cf 		diversi da quelli in white list comporta un KO durante il processo di accreditamento. 
+2. Per l’invocazione dei servizi devono essere utilizzati esclusivamente i codici fiscali inclusi nella [whitelist](https://github.com/ministero-salute/it-fse-accreditamento-v2/blob/main/Test%20Case/CF%20WHITELIST.txt) fornita. L'utilizzo di cf 		diversi da quelli in white list comporta un KO durante il processo di accreditamento. 
 3. Sul presente repository NON devono essere caricati dati sensibili. I software vendor non impiegano in nessun modo dati riconducibili a persone identificate o identificabili, ai sensi del Regolamento (UE) 2016/679 (GDPR). L’apertura di una pull request è subordinata alla presa visione dell'informativa privacy e all’accettazione della dichiarazione di presa di responsabilità da allegare all'EUSurvey.
 
 
