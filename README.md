@@ -11,6 +11,13 @@ Questo repository raccoglie i risultati dei test effettuati per l'accreditamento
 		- [Struttura file json di equivalenza](#struttura-file-json-di-equivalenza)
 	- [Nuova tipologia documentale per applicativo già presente nella Lista dei software convalidati](#nuova-tipologia-documentale-per-applicativo-già-presente-nella-lista-dei-software-convalidati)
 
+## Invocazione del servizio di validazione del Gateway ai fini dell'accreditamento
+Per lo svolgimento dei casi di test previsti dall'accreditamento, è necessario invocare il servizio di validazione del Gateway (le cui specifiche tecniche sono riportate al link [integrazione-gateway](https://github.com/ministero-salute/it-fse-support/blob/main/doc/integrazione-gateway/README.md#31-request)), valorizzando il campo "activity" come di seguito indicato:
+
+  "activity": "VALIDATION_FOR_ACCREDITAMENTO"
+
+
+
 ## Procedura di caricamento dei risultati
 Per inviare i risultati dei test effettuati è necessario eseguire una pull request. 
 
