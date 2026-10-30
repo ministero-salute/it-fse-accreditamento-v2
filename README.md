@@ -1,6 +1,7 @@
 # Accreditamento FSE 2.0
 Questo repository raccoglie i risultati dei test effettuati per l'accreditamento dei software con il sistema FSE 2.0 a sostituzione del precedente it-fse-accreditamento, che è stato dismesso.
 
+- [Invocazione del servizio di validazione del Gateway ai fini dell'accreditamento](#invocazione-del-servizio-di-validazione-del-gateway-ai-fini-dellaccreditamento)
 - [Accreditamento FSE 2.0](#accreditamento-fse-20)
 	- [Procedura di caricamento dei risultati](#procedura-di-caricamento-dei-risultati)
 		- [Struttura dei risultati (data.json)](#struttura-dei-risultati-datajson)
