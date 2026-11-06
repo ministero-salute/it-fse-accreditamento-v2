@@ -1,0 +1,31 @@
+{
+  "appVendor": "DATATEC_INFORMATICA_DI_IOCCO_PIETRO",
+  "appID": "WINDOCS",
+  "appVersion": "2.2.24",
+  "results": [
+    {
+      "id": 4,
+      "ts": "2026-11-04T19:21:38Z",
+      "traceId": "1e855eac66a76a9be74d444ee9a34e15",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.720d415aa54ce1a37b03f8e0161f9652e654b91f0ecbcec426dcd14e36e62b83.80ade2f6f4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 28,
+      "ts": "2026-11-04T18:46:49Z",
+      "traceId": "27e0b24832eb4ddf6052cc8a6b91cd77",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 36,
+      "ts": "2026-11-04T18:49:08Z",
+      "traceId": "20e3def4b9f5a146e78fa80d23144371",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 452,
+      "ts": "2026-11-04T16:12:48Z",
+      "traceId": "19c7e9e0116e9b2a7319794993c8b36c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.f728a7c78289c1fcc175995a088f45674128c53e74a4fc92ad9efc9919b2ff04.8cd5c76591^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}
