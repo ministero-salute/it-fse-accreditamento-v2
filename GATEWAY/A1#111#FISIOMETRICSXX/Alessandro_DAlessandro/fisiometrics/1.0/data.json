@@ -1,203 +1,137 @@
 {
-  "appVendor": "Alessandro D'Alessandro",
-  "appID": "fisiometrics",
-  "appVersion": "1.0",
-  "results": [
-    {
-      "id": 32,
-      "ts": "2026-04-14T11:09:35Z",
-      "files": [
-        "RSA_TC32_VALIDATION.pdf"
-      ],
-      "traceId": "2db484b814cc69dace5aac1829492fd0"
-    },
-    {
-      "id": 40,
-      "ts": "2026-04-14T11:09:44Z",
-      "files": [
-        "RSA_TC40_VALIDATION.pdf"
-      ],
-      "traceId": "45049bb3c141ff288ec0100b8197bb35"
-    },
-    {
-      "id": 152,
-      "ts": "2026-04-14T10:27:02Z",
-      "traceId": "b17d5ebc258a1897e294643440e3f8af",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC152_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 154,
-      "ts": "2026-04-14T10:27:57Z",
-      "traceId": "aa31c9f57db0c0c507460cf96c349d7c",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC154_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 155,
-      "ts": "2026-04-14T10:28:10Z",
-      "traceId": "ab7307e01cafc0292c55bd0aae1fa7ac",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC155_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 156,
-      "ts": "2026-04-14T10:28:20Z",
-      "traceId": "b14b66cf52d8dcfefa11f475f835af16",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC156_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 159,
-      "ts": "2026-04-14T11:16:55Z",
-      "traceId": "42ee0f7037bc20251449d12c031cef47",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC159_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 160,
-      "ts": "2026-04-14T10:49:17Z",
-      "traceId": "33cdd228fd6036cadf839a544d2c9a86",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC160_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 161,
-      "ts": "2026-04-14T10:43:17Z",
-      "traceId": "f545c9c00b920b6f13730168dd40c4b9",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC161_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 162,
-      "ts": "2026-04-14T10:43:26Z",
-      "traceId": "bd9c5dceed315da1ccc6a4dd7595cbba",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC162_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 163,
-      "ts": "2026-04-14T10:43:36Z",
-      "traceId": "96b195168cbc5f8e2cdfe1881f92c47a",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC163_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 164,
-      "ts": "2026-04-14T10:58:49Z",
-      "traceId": "d6bf38e20a73d6040df44f08f4cbb123",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC164_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 165,
-      "ts": "2026-04-14T11:03:37Z",
-      "traceId": "65778fdde4acbf1ce9fb0bd221481104",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC165_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 166,
-      "ts": "2026-04-14T11:03:46Z",
-      "traceId": "c09c2da7ffa1cba63239e82f6e35c758",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC166_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 167,
-      "ts": "2026-04-14T11:03:55Z",
-      "traceId": "2fb7e0f4e4daf28e5ccfd2e344bf131e",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC167_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 168,
-      "ts": "2026-04-14T11:04:05Z",
-      "traceId": "8c5f5912d6c549a5042c8a3f6ffb041c",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC168_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 169,
-      "ts": "2026-04-14T10:28:48Z",
-      "traceId": "40596b36e3bebb4e48b9bf6a5bdc35fb",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC169_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 448,
-      "ts": "2026-04-08T17:48:16Z",
-      "traceId": "d09184707961b43815f95f99ed5cfaa8",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b845.94ed851fb1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-      "files": [
-        "RSA_TC448_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 449,
-      "ts": "2026-04-08T17:49:07Z",
-      "traceId": "64009a24c42c533b67163f512051be2d",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b845.b4d4582b55^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-      "files": [
-        "RSA_TC449_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 461,
-      "ts": "2026-04-14T11:10:05Z",
-      "files": [
-        "RSA_TC461_VALIDATION.pdf"
-      ],
-      "traceId": "7b054dacef5e638e522a64b1c730075d",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84"
-    },
-    {
-      "id": 468,
-      "ts": "2026-04-14T10:28:35Z",
-      "traceId": "0398b5ae7d141186277f0ae6a7a09d26",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84",
-      "files": [
-        "RSA_TC468_VALIDATION.pdf"
-      ]
-    },
-    {
-      "id": 475,
-      "ts": "2026-04-14T11:10:15Z",
-      "files": [
-        "RSA_TC475_VALIDATION.pdf"
-      ],
-      "traceId": "d81f1c1213bd62003996aab14350fb46",
-      "workflowInstanceId": "324dcf9d-2bb1-4f61-a862-b60de30e4f4d.97a32a8f754a425f4dbedf388766477a1055d95b20db0eed9b39cfe1f2d1b84"
-    }
-  ]
+    "appVendor": "Alessandro D'Alessandro",
+    "appID": "fisiometrics",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": 32,
+            "ts": "2026-11-03T11:56:10Z",
+            "traceId": "21a2359829d2f57643db1a909015a3a3"
+        },
+        {
+            "id": 40,
+            "ts": "2026-11-03T11:56:46Z",
+            "traceId": "f089d537d06caa3a0b0365f3fb847acc"
+        },
+        {
+            "id": 152,
+            "ts": "2026-11-03T11:56:47Z",
+            "traceId": "98d8f45b627091d37535da625ea9ad96",
+            "workflowInstanceId": "9c25ee1a-e33d-4e33-bd88-73338954bd46.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.f1cc2dd352^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 154,
+            "ts": "2026-11-03T11:56:48Z",
+            "traceId": "e1a75557ef43c61b28714649831c69cc",
+            "workflowInstanceId": "e8e2e492-c8b2-4154-a62c-589fe82d5d28.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.60b095fe13^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 155,
+            "ts": "2026-11-03T11:56:49Z",
+            "traceId": "cd0913fd4cb8acd0320624e4f12ad1be",
+            "workflowInstanceId": "f9e208f6-aa4b-4366-840d-6ade25c83d2d.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.8c99e46081^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 156,
+            "ts": "2026-11-03T11:56:50Z",
+            "traceId": "7f6436b9f56bf4e332774174d08082e1",
+            "workflowInstanceId": "0f583094-4887-4eca-9a39-3d144ffea972.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.b5ca0487cc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 159,
+            "ts": "2026-11-03T11:56:50Z",
+            "traceId": "b46496314354e2b35dbf5099c516516b",
+            "workflowInstanceId": "48801f80-422c-4160-921e-97dc9cf15563.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.73995fc784^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 160,
+            "ts": "2026-11-03T11:56:51Z",
+            "traceId": "b3b4fcb914454f6c4134f3264d171ed8",
+            "workflowInstanceId": "604b1bbb-a1db-486f-940c-0ac960bd8981.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.3248357399^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 161,
+            "ts": "2026-11-03T11:56:52Z",
+            "traceId": "5f579066ec4781cfe613120d4482ac0d",
+            "workflowInstanceId": "c373f839-8312-4a5e-9d25-80d324f3c8d9.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.961218ff73^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 162,
+            "ts": "2026-11-03T11:56:53Z",
+            "traceId": "e2044e0c9aed3d94d51e49abab75f5a1",
+            "workflowInstanceId": "9655741b-dc20-4ef8-bd2b-e943bd0f81d0.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.f1e62f16b0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 163,
+            "ts": "2026-11-03T11:56:54Z",
+            "traceId": "34e4f485a0ef046a8ef4c0d4b8a01e81",
+            "workflowInstanceId": "41c27946-a418-475c-9b94-9b3e547f6e6f.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.f8f53a5404^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 164,
+            "ts": "2026-11-03T11:56:54Z",
+            "traceId": "15b22da29d7c5486956cca084b951ad9",
+            "workflowInstanceId": "86ac132d-b0da-4cb2-933d-35f1094b0202.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.b128f5df30^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 165,
+            "ts": "2026-11-03T11:56:55Z",
+            "traceId": "bddbd5a6742574bc71f45cbec76dc157",
+            "workflowInstanceId": "7a35d824-2637-4563-8861-cf90c7be74b8.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.adccaa0053^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 166,
+            "ts": "2026-11-03T11:56:56Z",
+            "traceId": "705966bf64dd6ecf990df3e76a3d2249",
+            "workflowInstanceId": "622536e5-3e61-48cf-b7ff-2e90a5c12c9d.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.09de0cef44^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 167,
+            "ts": "2026-11-03T11:56:57Z",
+            "traceId": "51040ddc3069f660106b6ca2fd6aa190",
+            "workflowInstanceId": "eb663e88-c322-437e-b496-83e2dc148ff3.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.7178ea456c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 168,
+            "ts": "2026-11-03T11:56:58Z",
+            "traceId": "9fabe632ca5a821d241dc444b8a8de62",
+            "workflowInstanceId": "840ae855-2d8c-4db6-a6fe-0371e0b7d35c.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.1a3e3bddb6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 169,
+            "ts": "2026-11-03T11:56:58Z",
+            "traceId": "d34c777752f31fadeb5240bdac0b2f12",
+            "workflowInstanceId": "0ef1cf53-f7b2-4be2-bc31-127fbe4f0b39.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.94db35b8dc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 448,
+            "ts": "2026-11-03T11:48:43Z",
+            "traceId": "0d148dc93591ba6ddfe2c203b84da93b",
+            "workflowInstanceId": "8721b6be-5743-4c24-aa50-7530aa8960bc.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.3b32f4e72e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 449,
+            "ts": "2026-11-03T11:49:51Z",
+            "traceId": "953f379b54233ead55bdbb1d22bd8d98",
+            "workflowInstanceId": "0762fb7c-63c0-4827-9528-76447791b268.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.8eeeb24ef5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 461,
+            "ts": "2026-11-03T11:56:59Z",
+            "traceId": "eaf5385964f73b28fb20a95ddc280b33",
+            "workflowInstanceId": "e8f372c7-cc07-46f5-b1f2-08149aa0795a.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.dc1ba0a5ca^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 468,
+            "ts": "2026-11-03T11:57:00Z",
+            "traceId": "2aa3b08a50aba36959a04af9981c712d",
+            "workflowInstanceId": "016835d9-8e3c-4f3f-8ab4-a073e3d6753c.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.42da7ea9d7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 475,
+            "ts": "2026-11-03T11:57:01Z",
+            "traceId": "c5f01330ffddf21ba88a12dd4fc825ab",
+            "workflowInstanceId": "c0233364-3e0d-4cd6-bc92-87c35f0def24.79d794a2dfc18f20b633c13ced5235297050da4a3da897e16f2c4e4712d67fea.cb5ef54f6b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        }
+    ]
 }
