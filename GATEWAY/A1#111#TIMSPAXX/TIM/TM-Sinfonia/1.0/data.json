@@ -1,52 +1,85 @@
 {
-        "appVendor": "TIM",
-        "appID": "TM-Sinfonia",
-        "appVersion": "1.0",
-        "results": [
-		{
-                        "id": 32,
-                        "ts":"2024-02-21T19:13:06Z",
-                        "traceId": "55095b3409ff43d4",
-                        "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
-                        "files": [
-                                "32_RSA_testValidazioneKO.pdf"
-                        ]
-                },
-		{
-                        "id": 40,
-                        "ts":"2024-02-21T19:08:22Z",
-                        "traceId": "b581765909c5e5a1",
-                        "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
-                        "files": [
-                                "40_RSA_testValidazioneKO.pdf"
-                        ]
-                },
-                {
-                        "id": 152,
-                        "ts":"2024-02-19T10:19:55Z",
-                        "traceId": "0b261939acb1e7c8",
-                        "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.21ec8e2b7c7f4784af89ca49154501d173203c29f6e04a59af40f43ec4893a0a.8ab46cfaa5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-                        "files": [
-                                "152_RSA_testValidazioneKO.pdf"
-                        ]
-                },
-                {
-                        "id": 156,
-                        "ts":"2024-02-19T14:13:08Z",
-                        "traceId": "d8c838ab84bf25e9",
-                        "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.0546d8e692e7603309b322cd4c8fd864dc116684032c31beb7f3be92ffe26121.3b0f21e427^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-                        "files": [
-                                "156_RSA_testValidazioneKO.pdf"
-                        ]
-                },
-                {
-                        "id": 374,
-                        "ts":"2024-02-23T09:21:35Z",
-                        "traceId": "37901a3084375fb3",
-                        "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.f43619dcc5f16c3d1579954433245a1d707321ddd43d18766702d325da8632e1.3d4d58e780^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-                        "files": [
-                                "374_RSA_testValidazioneOK.pdf"
-                        ]
-                }
-        ]
+  "appVendor": "TIM",
+  "appID": "TM-Sinfonia",
+  "appVersion": "1.0",
+  "results": [
+    {
+      "id": 32,
+      "ts": "2026-11-12T09:31:44Z",
+      "traceId": "260902d937e3d5357d39ba220ab62e5d",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 40,
+      "ts": "2026-11-12T09:19:46Z",
+      "traceId": "86038d6a42a7151422bd0ed1afe594e6",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 152,
+      "ts": "2026-11-11T18:14:20Z",
+      "traceId": "8bf58458c5bfc5914496390d8397e022",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.e26d7d0bccba7919ca10714f79de63236b0a113a594877d4a0a028d28153dff9.ca8c701a36^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 156,
+      "ts": "2026-11-11T18:18:46Z",
+      "traceId": "a3c766c39cdabc2ac6ff817dc89182d1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.748db319c0c44339e6b6da4d3616360367f132d80c159d75535453f092c389fc.3028812e83^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 448,
+      "ts": "2026-11-11T18:25:03Z",
+      "traceId": "a3d96dbef38923c5332eb8a66c62f97e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.78e209f9494b2807868fee8d5b52eb0c03791876d54d1466927a7da5caf17bcb.af74819c40^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 531,
+      "ts": "2026-11-11T18:30:05Z",
+      "traceId": "2b2f168f844cc87c52f0f94a986b5662",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.f5b96f442572128a2ada95378f975d6147541234043a5066e77664301be551bb.c59fd00088^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 534,
+      "ts": "2026-11-11T18:37:53Z",
+      "traceId": "f75d022f738e11091eb31c82673f79c8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.c696df655424e3a21d7e1eac80c2e3c5572dc81b5af0755852115913af324c27.8a4719b30a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 537,
+      "ts": "2026-11-11T18:40:19Z",
+      "traceId": "540f1aba5c26f71369a8edc7da630eef",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.578305dc6bf5755d4d1870a48c125a9bbeca4771a012e0e78d8b1bf750d651fa.9f7229aac6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 549,
+      "ts": "2026-11-12T09:21:16Z",
+      "traceId": "fd5a42358a8745f01269d82eb57470a6",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 551,
+      "ts": "2026-11-11T18:45:41Z",
+      "traceId": "2d9c8fd6ed4fa46d27637e35a1908748",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.eed650cd863c3fb46f48ac9909abafca197966932f2b5e28fe643a0603bde488.ce49504e64^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 554,
+      "ts": "2026-11-11T18:48:39Z",
+      "traceId": "078c7cc08a583268923e37cf54e12495",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.8c58b6b558a6734bf2251c7300ca778cd4327b91d63e822acb28be104c88e61f.1a1c477a50^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 557,
+      "ts": "2026-11-11T18:51:13Z",
+      "traceId": "0bd6ab2f6d95e5ef531e472f84b5839c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.150.4.4.ce4ea022c89bc9ef0388fe2f0224d80cf093b648735176120e268ef12fdd9118.58c04a4e92^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 569,
+      "ts": "2026-11-12T09:22:24Z",
+      "traceId": "aea9c08ba6ba7d3ddc80b46326f0fb2b",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    }
+  ]
 }
