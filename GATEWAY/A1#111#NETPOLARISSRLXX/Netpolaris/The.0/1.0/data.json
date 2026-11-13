@@ -1,0 +1,13 @@
+{
+	"appVendor": "Netpolaris",
+	"appID": "The.0",
+	"appVersion": "1.0",
+	"results": [
+		{
+			"id": 450,
+			"ts": "2026-11-11T16:10:45Z",
+			"traceId": "b8a68ca2c7bfcae59b5054d1db2f0830",
+			"workflowInstanceId": "802caa54-74ca-4573-98e8-6029691df6b0.8c7b367b38c36e85c5bcb94c56179f495e8fdcf3998c1194f80eb0d7c4783497.d8bd9bec9c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+		}
+	]
+}
