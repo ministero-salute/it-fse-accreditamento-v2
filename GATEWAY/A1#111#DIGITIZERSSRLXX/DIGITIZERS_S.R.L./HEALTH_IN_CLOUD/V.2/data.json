@@ -1,0 +1,25 @@
+{
+    "appVendor": "DIGITIZERS S.R.L.",
+    "appID": "HEALTH IN CLOUD",
+    "appVersion": "V.2",
+    "results": [
+        {
+            "id": 154,
+            "ts": "2026-11-04T14:47:41Z",
+            "traceId": "2dcfa2554dfba8fc1544bf27d65297c1",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.12345678901.4.4.067aaad86eb50275db965a8e21af888671ff49c0ff5a42108fbe4ab735ada3a5.ff5b8044bb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 448,
+            "ts": "2026-11-06T11:22:20Z",
+            "traceId": "6f5f0b3afc934cceee08648b932fe7ba",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.12345678901.4.4.c255ff5557b4ce5d1ea8d147b4baf944e1924da81a12bfd8119930068bec2149.14c42e0bc0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 449,
+            "ts": "2026-11-06T11:23:08Z",
+            "traceId": "5ba1147fd130cebb859958ff927eacab",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.12345678901.4.4.1095861786e6583fd5020ae88933c6a419c90aa42ae01fbecd736d9302638d64.d6c4b70da9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "appVendor": "SkillsFactory",
+  "appID": "FSE_Sender",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 31,
+      "ts": "2026-11-12T22:52:14Z",
+      "traceId": "7b6d48086775fa01e903b6f3ba6f454f",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 39,
+      "ts": "2026-11-12T23:06:11Z",
+      "traceId": "32c75e3439d5270d67e00d93e508875b",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 471,
+      "ts": "2026-11-17T20:33:20.194+01:00",
+      "traceId": "0ab32a1584af156078d93b7d9f54711d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.55.4.4.6b22637b4f325db862e6b4540451ae71cc427f5b00f26ec64e902c30f9e8f9dc.ff52b53378^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 472,
+      "ts": "2026-11-17T20:42:12.552+01:00",
+      "traceId": "e2f42f8c6879bd4400b65898eb642d15",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.55.4.4.d378eacc3088d6612a517c5b97fe3a0ad70f140672c0d47963556e80d465dd72.240cec1d13^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}

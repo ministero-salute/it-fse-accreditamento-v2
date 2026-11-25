@@ -1,0 +1,91 @@
+{
+  "appVendor": "MEDIFE",
+  "appID": "MEDIFE",
+  "appVersion": "4.7.0",
+  "results": [
+    {
+      "id": 31,
+      "ts": "2026-11-03T16:15:23Z",
+      "traceId": "0525af38c23621dc61a47fb75d077158",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 32,
+      "ts": "2026-11-03T16:15:31Z",
+      "traceId": "f106617ff86fbfdcff44c25b2ddcc289",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 39,
+      "ts": "2026-11-03T16:22:51Z",
+      "traceId": "fd4ae9ddd975f50b598d4a3b717b0bab",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 40,
+      "ts": "2026-11-03T16:22:55Z",
+      "traceId": "e800ebf798311f9481f33b4034b037d1",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 76,
+      "ts": "2026-11-03T16:34:53Z",
+      "traceId": "a4c2eaef4b322daa4802d0f7957886d9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.db4af5e63188b06a86935a951f1a5d6d3ab3c9684317efda9c14c62843e495e0.dc451e2e97^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 78,
+      "ts": "2026-11-03T16:48:33Z",
+      "traceId": "c8c3135fce8a5e203a09d952a164f8be",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.6e146218d9890d6078d6c741f0a2033e21ee0619aa5ff711241614d28cb2ce24.285aad48b5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 79,
+      "ts": "2026-11-03T16:53:53Z",
+      "traceId": "8b3be79994c3514e136f9a864c1244f7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.00b05ae8eb6a23d525bdc9dfe5673caaa2cb3a5e88047178cac162c2afa8d822.d152dae902^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 152,
+      "ts": "2026-11-03T16:34:59Z",
+      "traceId": "cb9d0219521a03d0f7c08f1ad65a07dc",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.ac089bc312d93d9cd30da050453147941915e80dc819a8fc07c2ed9611f84f6f.6527dd6725^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 154,
+      "ts": "2026-11-03T16:48:27Z",
+      "traceId": "1f425f2f3db2ea5f3edb535cfcf06c2c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.370eb7e3046a0f94ddc7a92b795fa6dc6abc49286e2b5ec9f4cd8e5db955aebf.882da6dc64^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 155,
+      "ts": "2026-11-03T16:53:49Z",
+      "traceId": "2ac9133ed0f6c241ec108c551a2f53f7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.3d1c075d97d4e6b32fba7063213e205e488d74e80b2c2483bef39c172519d9a9.7919d0ad43^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 448,
+      "ts": "2026-11-03T15:31:02Z",
+      "traceId": "dc89abdbbe67376ca104bcce6f377794",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.53467e94ea4aa81e32f5093f55ca0b59de53e09b3183ae2cdf85f893885121fa.d22864cbd8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 449,
+      "ts": "2026-11-03T16:02:30Z",
+      "traceId": "4f20d547f4c1ece144003113ae2030df",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.cbb304a2cc9ac8545d814465aca27f5e2e8a26069d5288d723356ec5bc3c31aa.ac6f7fd9e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 471,
+      "ts": "2026-11-03T15:36:52Z",
+      "traceId": "9967d9610f374d51e57e47cd69266049",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.6071cddfd0054059c0f8d6b9c4603db2c5e72cca438cef028411d1e83b4c9366.a2234114fa^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 472,
+      "ts": "2026-11-03T16:02:48Z",
+      "traceId": "14707479d7c48d8fef9ac6808bc34378",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.bc607246fdee30ad2be03fd9a15eac2ac3fb34c6b6073e8c9405b2d29aabd95f.646da9dba0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}

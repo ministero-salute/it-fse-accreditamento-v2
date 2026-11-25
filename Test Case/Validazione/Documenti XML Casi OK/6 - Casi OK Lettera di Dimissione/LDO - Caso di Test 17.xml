@@ -24,8 +24,13 @@
 				<birthplace>
 					<place>
 						<addr>
-							<city>Cirie</city>
-							<censusTract>001086</censusTract>
+							<country>100</country>
+							<state>120</state>
+							<county>RM</county> 
+							<city>Roma</city> 
+							<censusTract>058091</censusTract> 
+							<postalCode>00184</postalCode> 
+							<streetAddressLine>via Milano 7</streetAddressLine> 
 						</addr>
 					</place>
 				</birthplace>

@@ -24,8 +24,13 @@
 				<birthplace>
 					<place>
 						<addr>
-							<city>Cirie</city>
-							<censusTract>001086</censusTract>
+							<country>100</country>
+							<state>120</state>
+							<county>RM</county> 
+							<city>Roma</city> 
+							<censusTract>058091</censusTract> 
+							<postalCode>00184</postalCode> 
+							<streetAddressLine>via Milano 7</streetAddressLine> 
 						</addr>
 					</place>
 				</birthplace>
@@ -570,7 +575,7 @@
 												<reference value="#[REF_TXT_CRIT]"/>
 											</text>
 											<statusCode code="completed"/>
-											<value xsi:type="CD" code="M" codeSystem="2.16.840.1.113883.5.1063" codeSystemName="CriticalityObservation" displayName="Moderate"/>
+											<value xsi:type="CD" code="M" codeSystem="2.16.840.1.113883.2.9.77.22.11.6" codeSystemName="CriticalityObservation" displayName="Moderate"/>
 										</observation>
 									</entryRelationship>								
 									<entryRelationship typeCode="REFR"> 
