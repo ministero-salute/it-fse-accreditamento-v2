@@ -4,17 +4,34 @@
   "appVersion": "1.1.0",
   "results": [
     {
+      "id": 175,
+      "ts": "2026-11-17T17:48:07Z",
+      "traceId": "f7e216de18cc62bfc565ffe15a7837ed",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.90e751f8814c7c702ac532963049d025e960fb5317cadbd5b884dee299ffd7e3.870116b9e6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 179,
+      "ts": "2026-11-17T17:48:09Z",
+      "traceId": "f770220b6425a856df91d417bc02f581",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.90e751f8814c7c702ac532963049d025e960fb5317cadbd5b884dee299ffd7e3.4f23f78a06^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 189,
+      "ts": "2026-11-17T17:48:11Z",
+      "traceId": "01a6f217232c53725175c58515001ec6",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.90e751f8814c7c702ac532963049d025e960fb5317cadbd5b884dee299ffd7e3.55da7de5ed^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
       "id": 476,
-<<<<<<< Updated upstream
-      "ts": "2026-04-11T10:48:45Z",
-      "traceId": "352798b3b54381aa6df1ce1ad3a72bfe",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.bda8782e7d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-=======
-      "ts": "2026-04-14T09:43:56Z",
-      "traceId": "e2df9c6370712d7224edc68c54af5fed",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.954105d338^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
->>>>>>> Stashed changes
-      "files": ["T3_VALIDATION.pdf"]
+      "ts": "2026-11-17T17:26:28Z",
+      "traceId": "01a78f469436d7d8c818135c0d3ed4a7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.90e751f8814c7c702ac532963049d025e960fb5317cadbd5b884dee299ffd7e3.1d24a33fea^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 477,
+      "ts": "2026-11-17T19:50:30Z",
+      "traceId": "ec6557bde045d25e11fff45ab533fa9a",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a75ae3a12b12f93ff45fb5a0f58c6bceeea1bed2630b140efa693b850a496e07.295edf4eec^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
     }
   ]
 }

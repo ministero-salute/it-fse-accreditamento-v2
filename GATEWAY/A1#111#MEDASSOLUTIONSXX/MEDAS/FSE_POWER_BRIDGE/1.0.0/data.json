@@ -1,0 +1,65 @@
+{
+  "appVendor": "MEDAS",
+  "appID": "FSE_POWER_BRIDGE",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 32,
+      "ts": "2026-11-20T12:16:00Z",
+      "traceId": "df26c22bc6a3a4831b670ce5b587f62d"
+    },
+    {
+      "id": 40,
+      "ts": "2026-11-20T14:48:07Z",
+      "traceId": "7ccff4153691fb70449e920566aefb3c"
+    },
+    {
+      "id": 152,
+      "ts": "2026-11-20T15:27:12Z",
+      "traceId": "0cb2262186ef97c8229917d4078689b1",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.241b86d71e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 155,
+      "ts": "2026-11-20T16:02:25Z",
+      "traceId": "9eb492239f907fbae7f1bffc06c2e9d8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.048d1c26cc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 156,
+      "ts": "2026-11-20T16:15:32Z",
+      "traceId": "8bfcad9fcf77883248feac557098a455",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.a7ef93b557^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 161,
+      "ts": "2026-11-20T16:41:05Z",
+      "traceId": "e1e0c7bc0d9b109041129c9445609ec2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.9954fd6e46^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 169,
+      "ts": "2026-11-20T17:13:27Z",
+      "traceId": "e98fd5909cc35608ec4f618013a50a94",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.d8caba1fb6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 448,
+      "ts": "2026-11-20T17:24:02Z",
+      "traceId": "f6ad262ebee0243acba0256af3f93721",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.936be4d48b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 468,
+      "ts": "2026-11-20T17:38:44Z",
+      "traceId": "343977e1f162c6e8c04d8e30ec57a244",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.6e87d3fb1c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 475,
+      "ts": "2026-11-20T17:50:10Z",
+      "traceId": "4003433d627c029017575fa3f2b62233",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120905.4.4.bdac360185fab6fcdc08bc58956e50fd39644f65ad3812fbf2ec4822b1137465.ebba0c53e7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}

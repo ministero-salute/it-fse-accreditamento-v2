@@ -1,0 +1,73 @@
+{
+    "appVendor": "D.Lab Srl",
+    "appID": "OsteoEasy",
+    "appVersion": "2.0",
+    "results": [
+        {
+            "id": 448,
+            "ts": "2026-11-10T07:50:07Z",
+            "traceId": "934d7713aa4aafaf9da86c2b8bea9016",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.7288d7ff3a5344f4cc8478e1af3f1f5abb1d4ad0f17c6334f7fb64157d411927.f7fc04e1bb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 155,
+            "ts": "2026-11-10T07:50:08Z",
+            "traceId": "1d86de7fa77515c9ce522db40934e210",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.6666ab28a7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 156,
+            "ts": "2026-11-10T07:50:08Z",
+            "traceId": "fdbcc5c6cb77aee106b2bab20420ccf7",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.0b824b7c7e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 160,
+            "ts": "2026-11-10T07:50:08Z",
+            "traceId": "cff98b147ea186738c3c92cadb349b31",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.46e964f2ed^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 161,
+            "ts": "2026-11-10T07:50:08Z",
+            "traceId": "0be3097807d06bff380fde836ef18de4",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.3f530623a7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 162,
+            "ts": "2026-11-10T07:50:09Z",
+            "traceId": "812663d2caa2adc79860be290af2162d",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.7fdb964fb5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 163,
+            "ts": "2026-11-10T07:50:09Z",
+            "traceId": "3fd6f7256c2c0cd4f7f12fa80cc8a888",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.d656651d82^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 169,
+            "ts": "2026-11-10T07:50:09Z",
+            "traceId": "12d4ce06e7d239b943e39d953cadb6fc",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.e0e62d30c5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 468,
+            "ts": "2026-11-10T07:50:09Z",
+            "traceId": "3e536c79ba4ff3816d58b82761b39007",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.4.4.1.448.a4ecdd704d258aa841bb3f9a1e3b0cafc59bd88810e542f8e7a0519809d78fe7.dc09982bce^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+        },
+        {
+            "id": 32,
+            "ts": "2026-11-10T07:50:10Z",
+            "traceId": "c05cc789b0880d005a298544b827fd6f",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+        },
+        {
+            "id": 40,
+            "ts": "2026-11-10T07:50:10Z",
+            "traceId": "6ab8e4c82cfb502c95e011903266c09d",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+        }
+    ]
+}

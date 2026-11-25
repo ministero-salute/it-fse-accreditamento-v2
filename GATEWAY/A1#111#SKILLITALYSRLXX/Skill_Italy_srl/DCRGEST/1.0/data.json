@@ -1,0 +1,91 @@
+{
+  "appVendor": "Skill Italy srl",
+  "appID": "DCRGEST",
+  "appVersion": "1.0",
+  "results": [
+    {
+      "id": 4,
+      "ts": "2026-11-19T13:14:35Z",
+      "traceId": "1e3bc8ad0b7e1f8b6f09d73c33961ee8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.b5c41072c4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 28,
+      "ts": "2026-11-19T13:13:45Z",
+      "traceId": "17f21f22e12dd3ef2ad639ad1eac0ed5",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 36,
+      "ts": "2026-11-19T13:13:46Z",
+      "traceId": "bb9dacbe27d8f34e9398be3c2c34bc32",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 53,
+      "ts": "2026-11-19T13:14:52Z",
+      "traceId": "153fb68698976b2d74067160048fbad7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.734e17495f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 55,
+      "ts": "2026-11-19T13:14:53Z",
+      "traceId": "858fbdfe7c8cb315815400913c431eca",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.b4e27c6b4b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 56,
+      "ts": "2026-11-19T13:14:54Z",
+      "traceId": "3389c5ed3ac8a9c694267500394285c2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.29227abeeb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 57,
+      "ts": "2026-11-19T13:14:55Z",
+      "traceId": "8d5bbd459350a36dab6939e6c8e198b5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.875846907a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 59,
+      "ts": "2026-11-19T13:14:56Z",
+      "traceId": "cb2d6d4af60e88a7842bbb9a1cd973f6",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.b35fe48c0c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 60,
+      "ts": "2026-11-19T13:14:57Z",
+      "traceId": "6db7d317a2eb157c99f48fc8f7ba46df",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.ef3372ca30^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 61,
+      "ts": "2026-11-19T13:14:58Z",
+      "traceId": "df6678102b80d1070731ccaaa1306139",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.62d6ea7a53^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 62,
+      "ts": "2026-11-19T13:14:59Z",
+      "traceId": "e4b93a7a7dfa93cf0c404e352e3e6f18",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.647fa2690d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 452,
+      "ts": "2026-11-19T13:10:59Z",
+      "traceId": "f6c7ae50b712e573ab4d0df4a2354e0c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.70463a95ed^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 466,
+      "ts": "2026-11-19T13:15:01Z",
+      "traceId": "cc7641e64cb64458b4a98bc123b15283",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.99b1d5eb3b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 473,
+      "ts": "2026-11-19T13:15:02Z",
+      "traceId": "6b3a0f6202b5551a68f7177044f57a92",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.3.ebf085b74f0a9c58e9872b574296939285e39f006e9b5a65efa20afbafcbc0f2.a7458cec7c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}

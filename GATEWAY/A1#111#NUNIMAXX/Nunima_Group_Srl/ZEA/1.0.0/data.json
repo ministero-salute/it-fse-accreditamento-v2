@@ -1,0 +1,37 @@
+{
+  "appVendor": "Nunima Group Srl",
+  "appID": "ZEA",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 4,
+      "ts": "2026-11-05T11:36:05Z",
+      "traceId": "19600dfa269959f2c8c21d3060be11d9",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.1e7de3c879^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 452,
+      "ts": "2026-11-05T11:36:08Z",
+      "traceId": "616eb4200dcd5814e691963714ceed48",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.dda4fa86a0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 476,
+      "ts": "2026-11-05T11:36:11Z",
+      "traceId": "38327b3f8713ec4c46c60625db07e415",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.2a3a1b1847^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 477,
+      "ts": "2026-11-05T11:36:14Z",
+      "traceId": "c0ee19c286dfd77c9c169ad9e161c543",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.6f0f9c9f72^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 478,
+      "ts": "2026-11-05T11:36:15Z",
+      "traceId": "0d166c5c48529e91483d0f748c07232d",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.4.4.c6f3ac57944a531490cd39902d0f777715fd005efac9a30622d5f5205e7f6894.f06900ba38^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}
