@@ -1,0 +1,49 @@
+{
+  "appVendor": "Fibonacci Works S.r.l.",
+  "appID": "Fibonacci",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 448,
+      "ts": "2026-11-04T14:01:48Z",
+      "traceId": "73416efca0777757818b891b7b5720be",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.190.4.4.6dbeb7c77f9c254b8b9435f66c604dc2e8a2321454994c2f6461d940c98a3a0f.1dfb3c2e4a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 449,
+      "ts": "2026-11-04T14:01:51Z",
+      "traceId": "8a11508397a3e8cbeaec0f52092c6a6c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.190.4.4.e7528ba3c6785ab330bab0aea7cd01a9c0a5ccf9d7f326872f5fff105ce316f5.e8ce4505f8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 32,
+      "ts": "2026-11-04T14:01:51Z",
+      "traceId": "2fe7f3bd7ca899d856d911dd28095706",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 40,
+      "ts": "2026-11-04T14:01:52Z",
+      "traceId": "b5a92d665e33b1cc8308450fc94feb17",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
+      "id": 531,
+      "ts": "2026-11-04T14:01:52Z",
+      "traceId": "94d4de8506488c70a916d4ffb6b587d8",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.190.4.4.4a375d135b70adcc8d8bffcd912e5bf9ee909dda22bee3c613cec93f9ed1b3d3.b37032ed36^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 591,
+      "ts": "2026-11-04T14:01:53Z",
+      "traceId": "1be485fc044646b9209015a73c94b99e",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.190.4.4.fdaa98cba0601b47aa1e0fb17425fa4eb1bebf00dc6e97cd5290212d2304ab11.68cfde09e4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 549,
+      "ts": "2026-11-04T14:01:54Z",
+      "traceId": "268299c3ccae32321f0b640a2b860fa2",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    }
+  ]
+}

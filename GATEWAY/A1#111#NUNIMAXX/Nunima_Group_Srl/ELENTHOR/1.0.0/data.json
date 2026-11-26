@@ -1,0 +1,49 @@
+{
+  "appVendor": "Nunima Group Srl",
+  "appID": "ELENTHOR",
+  "appVersion": "1.0.0",
+  "results": [
+    {
+      "id": 4,
+      "ts": "2026-11-07T16:40:28Z",
+      "traceId": "d1657d61e82e88cb4915fae04fe0316f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.af94eff8f5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 452,
+      "ts": "2026-11-11T11:21:37Z",
+      "traceId": "51b84f2505a8ff05d63247f2021f3d28",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.fe3d793971^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 471,
+      "ts": "2026-11-07T16:40:26Z",
+      "traceId": "87cdc5a9c4f0191fdd7522f6c925a22c",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.8fe46b71d98546dc779f4a7f4859b056b254bbe56b59baa550333b2c46441c87.caea1a9863^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 472,
+      "ts": "2026-11-07T16:40:27Z",
+      "traceId": "1959f0ee2a06268e881c38aad1a50796",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.8fe46b71d98546dc779f4a7f4859b056b254bbe56b59baa550333b2c46441c87.22b5c7667c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 476,
+      "ts": "2026-11-07T16:40:29Z",
+      "traceId": "61afc16f62c87845bff60bdc0954b71b",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.62f57bd7f6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 477,
+      "ts": "2026-11-07T16:40:30Z",
+      "traceId": "98149850ea9ea4cb3d7a56e43ea49abb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.a9f4347f79cf3e1cf2ff4d79eaf6d0cf8d4a82cf3fb4e942adcc54e7fc27772e.11708d248b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    },
+    {
+      "id": 478,
+      "ts": "2026-11-07T16:40:31Z",
+      "traceId": "74552d3da4817c2a4bc7bf55de98b316",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.10001.68dd2163d36aed69cdecd66b305018f7959be7a945050f59c7a937b2aa5237da.ee4b2b9953^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+    }
+  ]
+}
