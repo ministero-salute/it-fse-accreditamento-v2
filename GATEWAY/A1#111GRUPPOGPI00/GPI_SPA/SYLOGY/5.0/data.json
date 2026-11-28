@@ -1,0 +1,81 @@
+{
+    "appVendor": "GPI SPA",
+    "appID": "SYLOGY",
+    "appVersion": "5.0",
+    "results": [		
+		{
+            "id": 32,
+            "ts": "2026-11-27T23:04:04.697Z",
+            "traceId": "9d7d94bd0a19d79e073a0d15ad52df65",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_32.pdf"
+            ]
+        },		
+		{
+            "id": 40,
+            "ts": "2026-11-27T23:12:39.969Z",
+            "traceId": "30edea6abbf241336c0675640261eed0",
+            "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_32.pdf"
+            ]
+        },
+		{
+            "id": 160,
+            "ts": "2026-11-27T23:28:18.082Z",
+            "traceId": "3cec9203b6a939eeac5be2ba8b6c9d9d",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.d1786f09bafbdc288d39c529feedf5c248a745f501005d82a8ad2259ba382b41.af6546ea75^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_14_160.pdf"
+            ]
+        },{
+            "id": 165,
+            "ts": "2026-11-27T23:51:46.322Z",
+            "traceId": "ec22ce7d681b21e692058ebcbf13f0bb",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.56d7fe75436cefe9356995fa990cc1b6871f443184dee31da15eb48bf2eb48d0.bd5e0a4c50^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_19_165.pdf"
+            ]
+        },
+		{
+            "id": 166,
+            "ts": "2026-11-28T00:00:12.326Z",
+            "traceId": "3981a72b292e5f6286a112e1dd44cc78",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.fe23abdbddea014bbc493517c2f45831cc5b3751f760a42688085e48923f47c9.4aed869f9b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_20_166.pdf"
+            ]
+        },
+		{
+            "id": 168,
+            "ts": "2026-11-28T00:07:22.723Z",
+            "traceId": "8530e3876fc58b3c5e97e2e61714bdf4",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.dffb97cc5d9881b7a8a54254a17ba665b2e4dcbbad839d9f8d1d6ccbff98115c.c23565160c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_22_168.pdf"
+            ]
+        },
+		{
+            "id": 448,
+            "ts": "2026-11-26T15:57:58.800Z",
+            "traceId": "d2cf859dfdc39f79aae6b53687f45acd",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.4d6e34d07b95b1bd98e786d166c66f2469b742958887740d289dc69dd8c5c8db.d6764b06d5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_24_448.pdf"
+            ]
+        },
+		{
+            "id": 461,
+            "ts": "2026-11-28T00:16:46.295Z",
+            "traceId": "11e55f21c281f9044577f0bf2e82e4e5",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.190203.4.4.12.4a1f0f08dceffdf96a2a90c8e6d054727040c595ced4f2778b6cc600df0d1066.19032a37d9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VALIDAZIONE_SYLOGY_RSA_CASE_26_461.pdf"
+            ]
+        }
+		
+    ]
+}
+
+
